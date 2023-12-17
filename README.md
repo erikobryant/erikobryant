@@ -6,4 +6,4 @@ I believe this could be the next step for AI, since it allows AI to take real wo
 Rather than generating suggestions or code, which the user would then have to implement themselves, this OS would have an AI that has access to your computer hardware.
 It could find, make, and download files, optimize computer performance, cutomize your desktop, and do pretty much anything a person can do on a computer, but far faster and far more effectively.
 
-All of the files for this operating system are in this repository, if you want to contribute, you can message me at erockthefrog@gmail.com.
+All of the files for this operating system are in my Epoch repository, if you want to contribute, please message me at erockthefrog@gmail.com
